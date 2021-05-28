@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4FD291F2-C39E-475C-AAB9-C41970B19397"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC8BD4B8-F135-4DEB-A3C5-8B4851790709"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReignTest/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82C316F2-01B1-4821-A4AB-ADEB0427F225"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReignTest/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6762208D-95D9-49B3-A17E-4D35667C6F84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReignTest/Source/Domain/Model/History.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E32C29D4-9F10-4310-BA53-FB213982E0F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReignTest/Source/Data/Network/Repository/RestHistoryRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "listAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7C44CD8-D89C-42DE-AD59-D06D4FBCD618"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReignTest/Source/Data/Network/Repository/RestHistoryRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "listAll()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7C44CD8-D89C-42DE-AD59-D06D4FBCD618 - 6da610e7a2e75f48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ReignTest.GetHitsResponse) -&gt; Swift.Array&lt;ReignTest.History&gt; in ReignTest.RestHistoryRepository.listAll() -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, Swift.Array&lt;ReignTest.History&gt;&gt;"
+                  moduleName = "ReignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianzito/Desktop/ReignApp/ReignTest/ReignTest/Source/Data/Network/Repository/RestHistoryRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "C7C44CD8-D89C-42DE-AD59-D06D4FBCD618 - 9c0d6da67dff3422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ReignTest.DTOHistory) -&gt; ReignTest.History in closure #1 (ReignTest.GetHitsResponse) -&gt; Swift.Array&lt;ReignTest.History&gt; in ReignTest.RestHistoryRepository.listAll() -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, Swift.Array&lt;ReignTest.History&gt;&gt;"
+                  moduleName = "ReignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianzito/Desktop/ReignApp/ReignTest/ReignTest/Source/Data/Network/Repository/RestHistoryRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
